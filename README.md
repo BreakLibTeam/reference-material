@@ -3,7 +3,7 @@
 - [break_eternity.js](https://github.com/Patashu/break_eternity.js)
 - [OmegaNum.js](https://github.com/Naruyoko/OmegaNum.js)
 - [ExpantaNum.js](https://github.com/Naruyoko/ExpantaNum.js)
-- [ExplodoNum.js](?????)
+- [MegotaNum.js](?????)
 - [PowiainaNum.js](https://github.com/VeryrrDefine/PowiainaNum.js)
 - [MetaNum.js](https://tieba.baidu.com/p/9234442096)
 - [Mod开发教程](https://minecraft-1122-forge-mod.readthedocs.io/zh-cn/latest/)
